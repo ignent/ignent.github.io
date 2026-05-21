@@ -1,0 +1,1 @@
+import{b as e}from"./chunk-KGYTTC2M-B86Horo8.js";export{e as createArchitectureServices};
